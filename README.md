@@ -24,8 +24,7 @@ To use this network on your own dataset, simply:
 3. Initialize the MLP with appropriate input dimensions and desired architecture 
 4. Train and evaluate on your data
 
-The implementation has been tested on classification problems and demonstrates the core principles of neural networks that can be applied across various domains including medical diagnosis, customer segmentation, fraud detection, and more.
-
+The implementation has been tested on classification problems and demonstrates the core principles of neural networks that can be applied across various domains including medical diagnosis, customer segmentation, fraud detection, and more
 ## Technical Implementation
 
 ### Core Components
